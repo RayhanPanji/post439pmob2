@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">_phone</string>
+    <string name="stories_app">439PHONE</string>
+    <string name="gambar1">gambar1</string>
+    <string name="ip17pm">iPhone 17 Pro Max</string>
+    <string name="ip17">Memiliki layar Super Retina XDR OLED 6,9 inci dengan ProMotion 120Hz, didukung chipset A19 Pro 3 nm dan RAM 12 GB. Perangkat ini dilengkapi tiga kamera belakang 48 MP (utama, ultrawide, telefoto) dan satu kamera depan 18 MP Center Stage. iOS 26 dengan integrasi Apple Intelligence. </string>
+    <string name="suka">Like</string>
+    <string name="bagikan">Share</string>
+    <string name="gambar2">gambar2</string>
+    <string name="ip16pm">iPhone 16 Pro Max</string>
+    <string name="ip16">layar Super Retina XDR OLED 6,9 inci dengan refresh rate adaptif hingga 120 Hz, ditenagai oleh chip A18 Pro dan dilengkapi dengan tiga kamera belakang (utama 48 MP, ultrawide 48 MP, dan telefoto 12 MP) serta satu kamera depan 12 MP. iOS 18 dengan berbagai fitur unggulan seperti Apple Intelligence dan Kontrol Kamera. </string>
+    <string name="suka2">Like</string>
+    <string name="bagikan2">Share</string>
+    <string name="gambar3">gambar3</string>
+    <string name="ip15pm">iPhone 15 Pro Max</string>
+    <string name="ip15">ponsel premium yang didukung oleh chip A17 Pro, bodi titanium yang ringan, dan layar Super Retina XDR 6,7 inci dengan ProMotion 120Hz. Fitur utamanya mencakup sistem kamera canggih dengan lensa telefoto 5x, tombol Tindakan yang dapat disesuaikan, dan pengisi daya USB-C.</string>
+    <string name="suka3">Like</string>
+    <string name="bagikan3">Share</string>
+    <string name="Buttonbre">Ini Button Mas</string>
+    <string name="_439phone">439PHone</string>
+    <string name="_phone">439PHONE</string>
+</resources>
